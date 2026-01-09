@@ -83,6 +83,6 @@ This project is licensed under the **MIT License**.
 
 ## 👤 Author
 
-**[Your Name]**
+**MALLIHARJUN M**
 Electronics and Communication Engineering
-(Replace with your details)
+BANNARI AMMAN INSTITUTE OF TECHNOLOGY
